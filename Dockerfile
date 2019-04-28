@@ -1,4 +1,4 @@
-FROM python:3.6.5-alpine
+FROM ubuntu:bionic
 
 #Set working directory
 WORKDIR /code
